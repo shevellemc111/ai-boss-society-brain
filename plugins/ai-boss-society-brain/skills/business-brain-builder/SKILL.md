@@ -9,9 +9,17 @@ This skill builds `business-brain.md` — the single file your three AI employee
 
 This is a **required** module. Budget 20-25 minutes. The goal is a usable first draft — you can always refine it later, so don't let a tricky question stall you out.
 
+## Before anything else — confirm the folder
+
+Everything this training builds lives in one folder the person attached to this Cowork task, so their AI employees can find it later.
+
+1. Check whether a folder is attached to this task. If none is, stop and say: "Before we start, attach the folder where you want your Business Brain files to live (for example, a folder named My Business Brain). Tell me when it's attached." Don't ask any interview questions until a folder is attached.
+2. Confirm out loud before writing anything: "I'll save your files in [folder name]/about-me/. Sound good?" Create `about-me/` if it doesn't exist yet.
+3. Save every file this skill creates in that `about-me/` folder — never the folder root, a temporary location, or anywhere else. If the person asks for a different location, use it, and tell them plainly that their AI employees look in `about-me/` by default.
+
 ## Before you start
 
-Check whether `business-brain.md` already exists in this workspace (usually under `about-me/business-brain.md` or wherever this training's files are being kept). Check also whether the person has a completed **Business Brain Prep Sheet** (the fillable Word doc version) — either uploaded as a file, pasted into the chat, or mentioned as "I filled this out already." Also ask whether they'd rather talk through their answers than type them — see **Voice memo option** below.
+Check whether `about-me/business-brain.md` already exists in the attached folder. Check also whether the person has a completed **Business Brain Prep Sheet** (the fillable Word doc version) — either uploaded as a file, pasted into the chat, or mentioned as "I filled this out already." Also ask whether they'd rather talk through their answers than type them — see **Voice memo option** below.
 
 Then pick a path:
 
@@ -35,7 +43,7 @@ Treat an uploaded transcript as a Path B input, same as a Prep Sheet — see the
 
 Walk through Business Basics, then the 9 core questions, **one at a time**. Do not front-load all 9 questions in one message — this is a conversation, not a form dump.
 
-After EVERY answer (including each Business Basics field), write it to `business-brain.md` immediately using the template below before asking the next question. Don't batch writes to the end — if the session gets interrupted, whatever's answered so far should already be saved.
+After EVERY answer (including each Business Basics field), write it to `about-me/business-brain.md` immediately using the template below before asking the next question. Don't batch writes to the end — if the session gets interrupted, whatever's answered so far should already be saved.
 
 ### Step 0 — Business Basics
 
@@ -107,7 +115,7 @@ If the prep sheet or transcript is empty, barely started, or too rambling to map
 
 ## Output file structure
 
-Save to `business-brain.md`. Use this structure exactly (headers may stay even if you're mid-interview and a section is still empty — fill in `[not yet answered]` rather than deleting the header):
+Save to `about-me/business-brain.md`. Use this structure exactly (headers may stay even if you're mid-interview and a section is still empty — fill in `[not yet answered]` rather than deleting the header):
 
 ```markdown
 # Business Brain — {{BUSINESS_NAME}}
