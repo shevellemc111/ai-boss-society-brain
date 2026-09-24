@@ -11,9 +11,17 @@ Not required, but strongly recommended for anyone whose Intake Coordinator or Em
 
 Budget about 10 minutes.
 
+## Before anything else — confirm the folder
+
+Everything this training builds lives in one folder the person attached to this Cowork task, so their AI employees can find it later.
+
+1. Check whether a folder is attached to this task. If none is, stop and say: "Before we start, attach the folder where you want your Business Brain files to live (for example, a folder named My Business Brain). Tell me when it's attached." Don't ask any interview questions until a folder is attached.
+2. Confirm out loud before writing anything: "I'll save your files in [folder name]/about-me/. Sound good?" Create `about-me/` if it doesn't exist yet.
+3. Save every file this skill creates in that `about-me/` folder, including any letterhead and logo files they upload — never the folder root, a temporary location, or anywhere else. If the person asks for a different location, use it, and tell them plainly that their AI employees look in `about-me/` by default.
+
 ## How to run it
 
-One question at a time. Save to `brand-kit.md` as you go. If a letterhead file gets uploaded, save the actual file too (see Output below) — the .md file describes the brand, it doesn't replace the real letterhead document.
+One question at a time. Save to `about-me/brand-kit.md` as you go. If a letterhead file gets uploaded, save the actual file too (see Output below) — the .md file describes the brand, it doesn't replace the real letterhead document.
 
 Ask, in order:
 
@@ -61,9 +69,9 @@ Note this even if they said yes to Question 1 — a business can have a primary 
 
 ## Output
 
-**1. Save the actual letterhead/logo files, if provided**, alongside `brand-kit.md` (not just described in the text) — these are what actually get used when drafting, the .md file is the index.
+**1. Save the actual letterhead/logo files, if provided**, in `about-me/` alongside `brand-kit.md` (not just described in the text) — these are what actually get used when drafting, the .md file is the index.
 
-**2. Save `brand-kit.md`:**
+**2. Save `about-me/brand-kit.md`:**
 
 ```markdown
 # Brand Kit — {{BUSINESS_NAME}}
