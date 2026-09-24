@@ -1,0 +1,12 @@
+{
+  "name": "ai-boss-society-brain",
+  "version": "1.0.0",
+  "description": "AI Boss Society Business Brain Builder kit: build your business brain, voice, about-me, brand kit, and working rules, then stand up three AI employees (Intake Coordinator, Email Manager, Operations Assistant).",
+  "author": {
+    "name": "Shevelle McPherson, Esq.",
+    "email": "info@shevellemcpherson.com"
+  },
+  "homepage": "https://github.com/shevellemc111/ai-boss-society-brain",
+  "repository": "https://github.com/shevellemc111/ai-boss-society-brain",
+  "keywords": ["ai-boss-society", "business-brain", "ai-employees", "star-framework"]
+}
