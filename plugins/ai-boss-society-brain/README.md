@@ -24,4 +24,4 @@ These three are marked `[FILL IN AT EVENT]`. Don't pre-fill them; we build them 
 
 ## How to start
 
-After installing, open Cowork and say: **"Let's do my business brain."**
+After installing, start a Cowork task, attach the folder you want your Business Brain files saved in, and say: **"Let's do my business brain."** Your files are saved in `about-me/` inside that folder, and anything your AI employees draft goes in `outputs/`.
