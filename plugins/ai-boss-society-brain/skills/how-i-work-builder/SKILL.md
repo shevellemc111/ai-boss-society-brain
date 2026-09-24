@@ -1,0 +1,63 @@
+---
+name: how-i-work-builder
+description: Optional. Builds how-i-work.md — standing rules for how Claude should operate day to day with this person, separate from what the business does. Use anytime after about-me.md and business-brain.md exist. Trigger on "how I work," "how i work file," "set up how Claude works with me," or any request to define working preferences or standing rules.
+---
+
+# How I Work Builder
+
+This is **optional** — unlike Business Brain, Writing Rules, and About-Me. It's worth doing if someone wants more control over Claude's default behavior, but nobody should feel behind for skipping it.
+
+Budget about 10 minutes if they choose to do it.
+
+## How to run it
+
+One question at a time, write to file as you go. This is short enough that it rarely needs a gap-check path — if someone has partial answers already, just ask about what's missing.
+
+**1. Response length**
+"When you ask me something, do you usually want the short answer, or the fuller explanation with reasoning? Does that change depending on what you're asking about?"
+
+**2. Ask-first vs. proceed**
+"For routine tasks — drafting something, organizing files, pulling together info — should I just do it and show you the result, or check in with you first before starting? Does that answer change for anything higher-stakes, like something going out to a client?"
+
+**3. Options vs. single pick**
+"When there's more than one reasonable way to do something, do you want me to just make a call and tell you what I picked, or lay out the options and let you choose?"
+
+**4. Default file format**
+"When I create something for you, what's the default format you want — a doc, a plain message in chat, a spreadsheet, something else? Does it depend on what the deliverable is?"
+
+**5. Delegation format (skip if solo)**
+"If you have a team or contractors, how do you want me to hand off work to them — a written brief, a task in whatever tool you use, something else? If it's just you, skip this one."
+
+**6. Accuracy check**
+Tell them directly, don't ask this as an open question: "One standing rule that's always on, no matter what you answer above: I always flag anything that looks like a likely factual or numerical error before finishing — a wrong-looking date, a number that doesn't add up, a claim I can't verify. I'll say so plainly rather than let it slide through."
+
+## Output file structure
+
+Save to `how-i-work.md`:
+
+```markdown
+# How I Work With Claude — {{NAME}}
+
+## Response length
+{{answer}}
+
+## Ask-first vs. proceed
+{{answer, noting any distinction between routine and higher-stakes tasks}}
+
+## Options vs. single pick
+{{answer}}
+
+## Default file format
+{{answer}}
+
+## Delegation format
+{{answer, or "Solo — not applicable."}}
+
+## Standing accuracy rule
+Claude always flags likely factual or numerical errors before finishing a task — a wrong-looking date, a number that doesn't reconcile, a claim it can't verify — rather than letting it pass silently.
+```
+
+## Hard rules for this skill
+
+- The accuracy rule in the output template is fixed — it goes in unedited, every time, regardless of what else is customized.
+- Don't pad this file with sections nobody answered. If "delegation format" was skipped because they're solo, say so plainly rather than leaving a blank header.
