@@ -82,7 +82,7 @@ Then say: "Now let's sanity-check your voice against a starter list of things th
 "How do you price — flat fee, hourly, retainer, commission, something else? Do you take a deposit or require payment upfront? Are stages billed separately? Anything unusual about how you structure payment?"
 
 **Q9 — The dream outcome**
-"If AI worked perfectly for you by September 24, 2026 — the day after your second training session — what would change about your week?"
+"If AI worked perfectly for you right after the live training, what would change about your week?"
 
 ### Step 2 — Wrap up
 
