@@ -12,7 +12,7 @@
       "name": "ai-boss-society-brain",
       "source": "./plugins/ai-boss-society-brain",
       "description": "Business Brain Builder kit: 5 builder skills plus 3 AI employee skeletons (Intake Coordinator, Email Manager, Operations Assistant).",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }
