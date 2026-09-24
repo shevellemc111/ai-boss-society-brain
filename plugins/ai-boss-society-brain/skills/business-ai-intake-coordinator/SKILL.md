@@ -11,6 +11,12 @@ This is a skeleton. It does not run as-is. It gets filled in live at the trainin
 
 Handles the first conversation with a new prospect or client: answering initial questions, gathering what's needed before a proposal or agreement, and recognizing who's worth moving forward with — without ever crossing into decisions that belong to the business owner.
 
+## Where files live
+
+- **Reads from:** `about-me/` inside the folder attached to this Cowork task — `business-brain.md`, `writing-rules.md`, `about-me.md`, `brand-kit.md`, and any letterhead or logo files saved there.
+- **Saves to:** `outputs/` inside that same folder (create it if needed). Name files `YYYY-MM-DD-short-description` with the right extension, e.g. `2026-10-01-smith-client-agreement.docx`.
+- **If no folder is attached, or `about-me/business-brain.md` isn't there:** stop and ask the person to attach their Business Brain folder before doing anything. Never work from memory or a guessed location.
+
 ## Reads from business-brain.md
 
 - **Q2 — Ideal Client & Result:** who's a fit, who isn't, both situational and behavioral mismatches.
