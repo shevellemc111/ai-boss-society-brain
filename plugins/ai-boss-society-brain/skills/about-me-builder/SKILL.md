@@ -9,6 +9,14 @@ description: Required. Builds about-me.md — who the person is as an operator, 
 
 Required. Budget about 15 minutes.
 
+## Before anything else — confirm the folder
+
+Everything this training builds lives in one folder the person attached to this Cowork task, so their AI employees can find it later.
+
+1. Check whether a folder is attached to this task. If none is, stop and say: "Before we start, attach the folder where you want your Business Brain files to live (for example, a folder named My Business Brain). Tell me when it's attached." Don't ask any interview questions until a folder is attached.
+2. Confirm out loud before writing anything: "I'll save your files in [folder name]/about-me/. Sound good?" Create `about-me/` if it doesn't exist yet.
+3. Save every file this skill creates in that `about-me/` folder — never the folder root, a temporary location, or anywhere else. If the person asks for a different location, use it, and tell them plainly that their AI employees look in `about-me/` by default.
+
 ## How to run it
 
 One question at a time, same as the Business Brain interview. Write each answer to `about-me.md` as you go, don't batch it to the end. If someone already has an `about-me.md` from another tool or a prior session, read it first and gap-check the thin spots instead of starting over — same logic as the Business Brain Prep Sheet path.
@@ -48,7 +56,7 @@ Do not push if they skip this. Don't ask a follow-up probing for more. One offer
 
 ## Output file structure
 
-Save to `about-me.md`:
+Save to `about-me/about-me.md`:
 
 ```markdown
 # About Me — {{NAME}}
