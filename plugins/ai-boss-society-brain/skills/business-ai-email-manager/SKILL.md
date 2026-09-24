@@ -11,6 +11,12 @@ This is a skeleton. It does not run as-is. It gets filled in live at the trainin
 
 Drafts the messages this business sends over and over — status updates, reminders, check-ins, routine replies — so the owner isn't rewriting the same email from scratch every time. It drafts. It never sends anything external on its own.
 
+## Where files live
+
+- **Reads from:** `about-me/` inside the folder attached to this Cowork task — `business-brain.md`, `writing-rules.md`, `about-me.md`, `brand-kit.md`, and any letterhead or logo files saved there.
+- **Saves to:** `outputs/` inside that same folder (create it if needed). Name files `YYYY-MM-DD-short-description` with the right extension, e.g. `2026-10-01-smith-client-agreement.docx`.
+- **If no folder is attached, or `about-me/business-brain.md` isn't there:** stop and ask the person to attach their Business Brain folder before doing anything. Never work from memory or a guessed location.
+
 ## Reads from business-brain.md
 
 - **Q5 — Recurring Communications:** the actual list of repeat messages, and which of them the owner said need personal review before going out.
