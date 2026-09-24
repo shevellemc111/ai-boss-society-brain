@@ -11,6 +11,12 @@ This is a skeleton. It does not run as-is. It gets filled in live at the trainin
 
 Keeps track of where every active client or engagement stands, surfaces what's coming up, and coordinates with whatever tools and team members are already in the mix. It's a tracker and a surfacer of things the owner already decided — it is not a generator of new work product.
 
+## Where files live
+
+- **Reads from:** `about-me/` inside the folder attached to this Cowork task — `business-brain.md`, `writing-rules.md`, `about-me.md`, `brand-kit.md`, and any letterhead or logo files saved there.
+- **Saves to:** `outputs/` inside that same folder (create it if needed). Name files `YYYY-MM-DD-short-description` with the right extension, e.g. `2026-10-01-smith-client-agreement.docx`.
+- **If no folder is attached, or `about-me/business-brain.md` isn't there:** stop and ask the person to attach their Business Brain folder before doing anything. Never work from memory or a guessed location.
+
 ## Reads from business-brain.md
 
 - **Q4 — Client Journey:** the stages an engagement moves through, from signed agreement to wrap-up, so it knows what "on track" looks like at each stage.
