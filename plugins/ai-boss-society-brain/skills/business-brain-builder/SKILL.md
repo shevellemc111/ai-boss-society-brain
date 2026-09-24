@@ -94,7 +94,7 @@ Then say: "Now let's sanity-check your voice against a starter list of things th
 
 ### Step 2 — Wrap up
 
-Read the finished file back to them section by section (or as one block if they prefer) and ask if anything needs correcting. Then confirm: "business-brain.md is saved. This is what your three AI employees will run on when we build them at the live session."
+Read the finished file back to them section by section (or as one block if they prefer) and ask if anything needs correcting. Then tell them directly, don't ask this as an open question: "One standing rule is built into your Business Brain: whenever this folder is attached, anything I create for you — a flyer, a report, a proposal, a spreadsheet — gets saved in outputs, in a subfolder for that client or project. If I can't tell which project it belongs to, I'll ask before saving." Then confirm: "business-brain.md is saved. This is what your three AI employees will run on when we build them at the live session."
 
 ---
 
@@ -156,6 +156,9 @@ Save to `about-me/business-brain.md`. Use this structure exactly (headers may st
 
 ## Q9 — The Dream Outcome
 {{answer}}
+
+## Standing File Rule
+Whenever this folder is attached to a Cowork task, save every new deliverable in `outputs/<client-or-project-name>/` inside it, named `YYYY-MM-DD-short-description` with the right extension — never the folder root and never `about-me/`. If it isn't clear which client or project a file belongs to, ask before saving. Business Brain files stay in `about-me/`.
 ```
 
 ---
@@ -194,6 +197,7 @@ Golden rule, always: if the person's actual voice conflicts with this list on a 
 
 ## Hard rules for this skill
 
+- The Standing File Rule section in the output template is fixed — it goes in unedited, every time.
 - Never invent an answer on the person's behalf. If something's unclear, ask — don't guess and write it down as fact.
 - Never skip straight to Path B logic without confirming a prep sheet actually exists.
 - Always write to file after each answer, not at the end.
