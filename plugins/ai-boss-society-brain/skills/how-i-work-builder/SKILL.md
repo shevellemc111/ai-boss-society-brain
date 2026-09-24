@@ -39,6 +39,9 @@ One question at a time, write to file as you go. This is short enough that it ra
 **6. Accuracy check**
 Tell them directly, don't ask this as an open question: "One standing rule that's always on, no matter what you answer above: I always flag anything that looks like a likely factual or numerical error before finishing — a wrong-looking date, a number that doesn't add up, a claim I can't verify. I'll say so plainly rather than let it slide through."
 
+**7. Where your work goes**
+Tell them directly, don't ask this as an open question: "One more standing rule: whenever this folder is attached, anything I create for you — a flyer, a report, a proposal, a spreadsheet — gets saved in outputs, in a subfolder for that client or project. If I can't tell which project it belongs to, I'll ask before saving."
+
 ## Output file structure
 
 Save to `about-me/how-i-work.md`:
@@ -61,11 +64,14 @@ Save to `about-me/how-i-work.md`:
 ## Delegation format
 {{answer, or "Solo — not applicable."}}
 
+## Standing file rule
+Whenever this folder is attached to a Cowork task, save every new deliverable in `outputs/<client-or-project-name>/` inside it, named `YYYY-MM-DD-short-description` with the right extension — never the folder root and never `about-me/`. If it isn't clear which client or project a file belongs to, ask before saving. Business Brain files stay in `about-me/`.
+
 ## Standing accuracy rule
 Claude always flags likely factual or numerical errors before finishing a task — a wrong-looking date, a number that doesn't reconcile, a claim it can't verify — rather than letting it pass silently.
 ```
 
 ## Hard rules for this skill
 
-- The accuracy rule in the output template is fixed — it goes in unedited, every time, regardless of what else is customized.
+- The file rule and the accuracy rule in the output template are fixed — they go in unedited, every time, regardless of what else is customized.
 - Don't pad this file with sections nobody answered. If "delegation format" was skipped because they're solo, say so plainly rather than leaving a blank header.
