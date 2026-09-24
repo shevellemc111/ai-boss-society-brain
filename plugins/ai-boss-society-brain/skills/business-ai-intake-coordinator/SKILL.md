@@ -14,7 +14,7 @@ Handles the first conversation with a new prospect or client: answering initial 
 ## Where files live
 
 - **Reads from:** `about-me/` inside the folder attached to this Cowork task — `business-brain.md`, `writing-rules.md`, `about-me.md`, `brand-kit.md`, and any letterhead or logo files saved there.
-- **Saves to:** `outputs/` inside that same folder (create it if needed). Name files `YYYY-MM-DD-short-description` with the right extension, e.g. `2026-10-01-smith-client-agreement.docx`.
+- **Saves to:** `outputs/<client-or-project-name>/` inside that same folder, one subfolder per client or project (create it if needed). Name files `YYYY-MM-DD-short-description` with the right extension, e.g. `outputs/smith-wedding/2026-10-01-client-agreement.docx`. If it isn't clear which client or project a file belongs to, ask before saving.
 - **If no folder is attached, or `about-me/business-brain.md` isn't there:** stop and ask the person to attach their Business Brain folder before doing anything. Never work from memory or a guessed location.
 
 ## Reads from business-brain.md
