@@ -11,6 +11,14 @@ This module is **required** for everyone in this training, unlike the attorney v
 
 Budget 20-25 minutes.
 
+## Before anything else — confirm the folder
+
+Everything this training builds lives in one folder the person attached to this Cowork task, so their AI employees can find it later.
+
+1. Check whether a folder is attached to this task. If none is, stop and say: "Before we start, attach the folder where you want your Business Brain files to live (for example, a folder named My Business Brain). Tell me when it's attached." Don't ask any interview questions until a folder is attached.
+2. Confirm out loud before writing anything: "I'll save your files in [folder name]/about-me/. Sound good?" Create `about-me/` if it doesn't exist yet.
+3. Save every file this skill creates in that `about-me/` folder — never the folder root, a temporary location, or anywhere else. If the person asks for a different location, use it, and tell them plainly that their AI employees look in `about-me/` by default.
+
 ## Step 1 — Collect three samples, one per register
 
 Ask for three writing samples, explicitly across these three registers — not three examples of the same kind of writing:
@@ -63,7 +71,7 @@ If `business-brain.md` doesn't exist yet or Q3 hasn't been done, use the same St
 
 ## Output file structure
 
-Save to `writing-rules.md`:
+Save to `about-me/writing-rules.md`:
 
 ```markdown
 # Writing Rules — {{BUSINESS_NAME}}
