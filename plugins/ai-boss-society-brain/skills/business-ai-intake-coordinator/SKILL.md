@@ -30,9 +30,9 @@ It runs in two modes:
 
 Run this before Setup question 1 (not when picking up a setup already in progress).
 
-Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again.
+Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again. If one was already there, ask before using it: "I found your pre-work ([file name]). Want me to use it and only ask about what's missing, or would you rather answer the questions fresh?" Go with what they choose.
 
-**If pre-work answers exist:**
+**If they want to use their pre-work:**
 1. Read the whole thing first and find the **6. Intake Coordinator** section (Part 2 of the packet). A voice memo transcript won't follow the question order, so map each passage to the setup question it actually answers.
 2. Create `about-me/intake-coordinator.md` from the template with every section marked `[not yet answered]`, then fill in every section the pre-work answers clearly, combined with what's already in `business-brain.md`.
 3. Tell them: "Your pre-work fully answered [x] of 11 setup questions. I just need you on: [short list]." If it covered everything, say so and go straight to **Finish setup**.
@@ -47,7 +47,9 @@ Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (W
    The pre-work doesn't include the agreement template file itself. If it isn't in `about-me/templates/` yet, ask them to upload it (question 5).
 5. Then run **Finish setup** as usual: read the rulebook back for confirmation, offer the scheduled tasks, and run the first piece of daily work.
 
-**If there are no pre-work answers,** run Setup below as usual, one question at a time.
+**Switching midway:** if they're answering the questions fresh (or said they had no pre-work) and then say something like "just use my pre-work," switch right away. Keep everything they've already answered here (their newest answers win over the pre-work), fill in the rest from the pre-work (ask them to upload it if it isn't in `about-me/prework/` yet), tell them what's left ("Between what you've answered here and your pre-work, [x] of [total] are done. I just need you on: [short list]."), and ask only the gap questions. It works the other way too: if they'd rather answer the rest fresh, go back to the regular questions for whatever's left. While they're answering fresh, don't pull answers from the pre-work.
+
+**If there's no pre-work, or they'd rather answer fresh,** run Setup below as usual, one question at a time.
 
 ---
 
