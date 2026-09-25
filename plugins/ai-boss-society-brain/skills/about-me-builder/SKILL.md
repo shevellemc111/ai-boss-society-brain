@@ -17,6 +17,25 @@ Everything this training builds lives in one folder the person attached to this 
 2. Confirm out loud before writing anything: "I'll save your files in [folder name]/about-me/. Sound good?" Create `about-me/` if it doesn't exist yet.
 3. Save every file this skill creates in that `about-me/` folder — never the folder root, a temporary location, or anywhere else. If the person asks for a different location, use it, and tell them plainly that their AI employees look in `about-me/` by default.
 
+## Pre-work answers: check first
+
+Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again.
+
+**If pre-work answers exist:**
+1. Read the whole thing first and find the **3. About Me** section. A voice memo transcript won't follow the question order, so map each passage to the question it actually answers.
+2. Fill in every question the pre-work answers clearly, writing to the file as you go.
+3. Tell them: "Your pre-work fully answered [x] of 9 questions. I just need you on: [short list]." If it covered everything, say so and go straight to reading the file back for confirmation.
+4. Ask only about the gaps, **one at a time**. A gap is:
+   - a question that was skipped or never came up in the transcript
+   - a question only partly answered (ask just for the missing part)
+   - an answer too vague to act on (for example, "difficult people" for a red flag, or "sometimes" for a schedule)
+   - an answer that contradicts the Business Brain or another answer
+   - anything you're not sure you understood
+
+   Never guess to fill a gap, and don't re-ask anything the pre-work already answers clearly. If you filled something by reading between the lines rather than from a direct answer, mark it `(inferred, please confirm)` and check it with them when you read the file back.
+
+**If there are no pre-work answers,** run the questions below as usual.
+
 ## How to run it
 
 One question at a time, same as the Business Brain interview. Write each answer to `about-me.md` as you go, don't batch it to the end. If someone already has an `about-me.md` from another tool or a prior session, read it first and gap-check the thin spots instead of starting over — same logic as the Business Brain Prep Sheet path.
