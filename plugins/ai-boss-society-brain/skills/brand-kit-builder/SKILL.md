@@ -21,9 +21,9 @@ Everything this training builds lives in one folder the person attached to this 
 
 ## Pre-work answers: check first
 
-Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again.
+Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again. If one was already there, ask before using it: "I found your pre-work ([file name]). Want me to use it and only ask about what's missing, or would you rather answer the questions fresh?" Go with what they choose.
 
-**If pre-work answers exist:**
+**If they want to use their pre-work:**
 1. Read the whole thing first and find the **4. Brand Kit** section. A voice memo transcript won't follow the question order, so map each passage to the question it actually answers.
 2. Fill in every question the pre-work answers clearly, writing to the file as you go.
 3. Tell them: "Your pre-work fully answered [x] of 12 questions. I just need you on: [short list]." If it covered everything, say so and go straight to reading the file back for confirmation.
@@ -37,7 +37,9 @@ Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (W
    Never guess to fill a gap, and don't re-ask anything the pre-work already answers clearly. If you filled something by reading between the lines rather than from a direct answer, mark it `(inferred, please confirm)` and check it with them when you read the file back.
 5. The pre-work only notes whether they *have* a letterhead or logo. Ask them to upload the actual files if they aren't in the folder yet.
 
-**If there are no pre-work answers,** run the questions below as usual.
+**Switching midway:** if they're answering the questions fresh (or said they had no pre-work) and then say something like "just use my pre-work," switch right away. Keep everything they've already answered here (their newest answers win over the pre-work), fill in the rest from the pre-work (ask them to upload it if it isn't in `about-me/prework/` yet), tell them what's left ("Between what you've answered here and your pre-work, [x] of [total] are done. I just need you on: [short list]."), and ask only the gap questions. It works the other way too: if they'd rather answer the rest fresh, go back to the regular questions for whatever's left. While they're answering fresh, don't pull answers from the pre-work.
+
+**If there's no pre-work, or they'd rather answer fresh,** run the questions below as usual.
 
 ## How to run it
 
