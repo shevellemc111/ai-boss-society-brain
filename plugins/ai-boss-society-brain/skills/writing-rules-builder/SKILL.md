@@ -19,6 +19,14 @@ Everything this training builds lives in one folder the person attached to this 
 2. Confirm out loud before writing anything: "I'll save your files in [folder name]/about-me/. Sound good?" Create `about-me/` if it doesn't exist yet.
 3. Save every file this skill creates in that `about-me/` folder — never the folder root, a temporary location, or anywhere else. If the person asks for a different location, use it, and tell them plainly that their AI employees look in `about-me/` by default.
 
+## Pre-work answers: check first
+
+Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again.
+
+**If pre-work answers exist:** read the **2. Writing Rules** section and pull out every sample that's there: client-facing, social, and transcript. If they checked "Using my Business Brain / About Me voice memo" for Sample 3, or their pre-work is itself a voice memo transcript, that transcript is the spoken sample. Tell them which samples you found ("Your pre-work has your client-facing and social samples, and your voice memo covers the spoken one"), collect only the missing ones in Step 1, then go on to Step 2. If a sample is too short or unclear to learn from, say so and ask for another.
+
+**If there are no pre-work answers,** collect the samples in Step 1 as usual.
+
 ## Step 1 — Collect three samples, one per register
 
 Ask for three writing samples, explicitly across these three registers — not three examples of the same kind of writing:
