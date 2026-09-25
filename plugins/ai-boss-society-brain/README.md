@@ -14,13 +14,13 @@ The AI Boss Society Business Brain Builder kit, packaged as one plugin.
 | brand-kit-builder | `brand-kit.md` plus your real letterhead file | Recommended |
 | how-i-work-builder | `how-i-work.md`: standing rules for how Claude works with you | Optional |
 
-**AI employees (skeletons, filled in live at the training)**
+**AI employees**
 
-- business-ai-intake-coordinator
-- business-ai-email-manager
-- business-ai-operations-assistant
+- business-ai-email-manager — ready to use. Say "set up my email manager" to run its setup interview (priority senders, labels, review folder, cleanup, recurring emails, check-in schedule). After that, say "check my email" anytime, or let your scheduled reviews run.
+- business-ai-intake-coordinator — skeleton, filled in live at the training
+- business-ai-operations-assistant — skeleton, filled in live at the training
 
-These three are marked `[FILL IN AT EVENT]`. Don't pre-fill them; we build them together using the STAR Framework.
+The two skeletons are marked `[FILL IN AT EVENT]`. Don't pre-fill them; we build them together using the STAR Framework.
 
 ## How to start
 
