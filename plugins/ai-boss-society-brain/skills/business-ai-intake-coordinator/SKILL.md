@@ -20,9 +20,34 @@ It runs in two modes:
 
 ## Which mode to run
 
-- `about-me/intake-coordinator.md` doesn't exist → start **Setup** at question 1.
+- `about-me/intake-coordinator.md` doesn't exist → check **Pre-work answers** first, then start **Setup**.
 - It exists but has sections marked `[not yet answered]` → **pick up where they left off.** Say: "Welcome back — you've finished [n] of 11 setup questions. Picking up at question [x]: [topic]." Don't re-ask anything already answered.
 - It's complete → run whatever they asked for from **Daily work**. "New client" or "start intake" runs a **Client intake**.
+
+---
+
+## Pre-work answers: check first
+
+Run this before Setup question 1 (not when picking up a setup already in progress).
+
+Before asking anything, look in `about-me/prework/` for their Pre-Work Packet (Word, PDF, or text) or voice memo transcript. The Business Brain builder saves it there. If nothing is there, ask once: "Did you fill out the Pre-Work Packet or record a voice memo? Upload or paste it here and I'll use what you already answered." If they upload or paste one now, save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`) so nothing else has to ask for it again.
+
+**If pre-work answers exist:**
+1. Read the whole thing first and find the **6. Intake Coordinator** section (Part 2 of the packet). A voice memo transcript won't follow the question order, so map each passage to the setup question it actually answers.
+2. Create `about-me/intake-coordinator.md` from the template with every section marked `[not yet answered]`, then fill in every section the pre-work answers clearly, combined with what's already in `business-brain.md`.
+3. Tell them: "Your pre-work fully answered [x] of 11 setup questions. I just need you on: [short list]." If it covered everything, say so and go straight to **Finish setup**.
+4. Ask only about the gaps, **one at a time**. A gap is:
+   - a question that was skipped or never came up in the transcript
+   - a question only partly answered (ask just for the missing part)
+   - an answer too vague to act on (for example, "difficult people" for a red flag, or "sometimes" for a schedule)
+   - an answer that contradicts the Business Brain or another answer
+   - anything you're not sure you understood
+
+   Never guess to fill a gap, and don't re-ask anything the pre-work already answers clearly. If you filled something by reading between the lines rather than from a direct answer, mark it `(inferred, please confirm)` and check it with them when you read the file back.
+   The pre-work doesn't include the agreement template file itself. If it isn't in `about-me/templates/` yet, ask them to upload it (question 5).
+5. Then run **Finish setup** as usual: read the rulebook back for confirmation, offer the scheduled tasks, and run the first piece of daily work.
+
+**If there are no pre-work answers,** run Setup below as usual, one question at a time.
 
 ---
 
