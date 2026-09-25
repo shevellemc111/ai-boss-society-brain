@@ -22,7 +22,7 @@ The AI Boss Society Business Brain Builder kit, packaged as one plugin.
 | business-ai-intake-coordinator | "Set up my intake coordinator" | 15–25 min | "New client" |
 | business-ai-operations-assistant | "Set up my operations assistant" | about 15 min | "What's due?" |
 
-We answer these setup questions together at the live training. Didn't finish? Run the same phrase again later — it picks up right where you left off.
+Filled out the Pre-Work Packet or recorded a voice memo? Upload it once when you start your Business Brain. It's saved in `about-me/prework/`, and every builder and AI employee fills in what you already answered and only asks about the gaps. Didn't finish? Run the same phrase again later — it picks up right where you left off.
 
 ## How to start
 
