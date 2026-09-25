@@ -18,7 +18,7 @@ The AI Boss Society Business Brain Builder kit, packaged as one plugin.
 
 | Employee | Start setup by saying | Setup time | Then use it by saying |
 |---|---|---|---|
-| business-ai-email-manager | "Set up my email manager" | 25–30 min | "Check my email" |
+| business-ai-email-manager | "Set up my email manager" | about 10 min | "Check my email" |
 | business-ai-intake-coordinator | "Set up my intake coordinator" | 15–25 min | "New client" |
 | business-ai-operations-assistant | "Set up my operations assistant" | about 15 min | "What's due?" |
 
