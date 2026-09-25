@@ -29,6 +29,12 @@ Then pick a path:
 
 Never assume — ask in one line if it's not obvious which path applies.
 
+### Save the pre-work once, for everything
+
+The attendee **Pre-Work Packet** (Word or PDF), or a voice memo transcript, covers every module: Business Brain, Writing Rules, About Me, Brand Kit, How I Work (optional), and Part 2, the AI employee setup questions (Email Manager, Intake Coordinator, Operations Assistant). Whenever one is uploaded or pasted, first save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`). Then tell them: "I saved your pre-work in about-me/prework/. Your other builders and AI employees will read it from there, so you won't need to upload it again."
+
+Before asking whether they have a Prep Sheet, look in `about-me/prework/` in case it's already there.
+
 ### Voice memo option
 
 Some people find it easier to talk through this than type it. Offer it as an alternative up front: "If you'd rather talk through this than type, record yourself out loud answering the Business Basics and the 9 questions — your phone's voice memo app is the easiest way, or your computer's dictation/recording tool if that's easier for you. Most transcribe automatically; if not, dictate straight into a Notes app. Upload or paste the resulting transcript here instead of doing the typed interview."
@@ -104,10 +110,10 @@ Use this when a completed or partially completed Business Brain Prep Sheet (Word
 
 1. Read the whole thing first.
 2. Map every answer onto the template below, section by section. **If the input is a spoken transcript rather than a structured Prep Sheet:** it likely won't follow the question order, may answer two questions in one breath or drift off-topic — read the whole thing before mapping anything, and use judgment about which section a given passage actually belongs to. Note in the file where you inferred an answer from context rather than a direct response to that exact question.
-3. Flag anything **thin or missing**: a one-word answer to a question that needs specifics (e.g., "who's NOT a fit" answered as "difficult people" — too vague to act on), a skipped question, a question the transcript never actually addressed, or an answer that contradicts another section.
+3. Flag anything **thin, missing, or unclear**: a one-word answer to a question that needs specifics (e.g., "who's NOT a fit" answered as "difficult people" — too vague to act on), a skipped question, a question the transcript never actually addressed, an answer that contradicts another section, or anything you're not sure you understood. Never guess to fill a gap. Before asking, tell them in one line: "Your pre-work fully answered [x] of 9 questions plus the basics. I just need you on: [short list]."
 4. Ask ONLY about the thin/missing items, one at a time, the same way as Path A. Don't re-ask anything that's already solid — that wastes the time you're trying to save by having a prep sheet or transcript in the first place.
 5. Write every clarified answer into `business-brain.md` as you go.
-6. When done, tell them plainly which sections you gap-checked and which you left as-is because they were already solid.
+6. When done, tell them plainly which sections you gap-checked and which you left as-is because they were already solid. If the pre-work also covers the other modules, tell them the next step: "Your pre-work also has your Writing Rules, About Me, Brand Kit, and AI employee answers. Each one will pull from it, so you'll only get asked about gaps."
 
 If the prep sheet or transcript is empty, barely started, or too rambling to map with confidence, tell them honestly it's not enough to gap-check and offer to just run Path A instead.
 
