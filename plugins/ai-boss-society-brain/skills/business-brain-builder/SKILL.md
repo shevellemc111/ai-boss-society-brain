@@ -33,7 +33,9 @@ Never assume — ask in one line if it's not obvious which path applies.
 
 The attendee **Pre-Work Packet** (Word or PDF), or a voice memo transcript, covers every module: Business Brain, Writing Rules, About Me, Brand Kit, How I Work (optional), and Part 2, the AI employee setup questions (Email Manager, Intake Coordinator, Operations Assistant). Whenever one is uploaded or pasted, first save a copy to `about-me/prework/` (keep the file name; pasted text goes in `about-me/prework/prework-answers.md`). Then tell them: "I saved your pre-work in about-me/prework/. Your other builders and AI employees will read it from there, so you won't need to upload it again."
 
-Before asking whether they have a Prep Sheet, look in `about-me/prework/` in case it's already there.
+Before asking whether they have a Prep Sheet, look in `about-me/prework/` in case it's already there. If it is, ask: "I found your pre-work ([file name]). Want me to use it and only ask about what's missing (Path B), or would you rather answer the questions fresh (Path A)?" Go with what they choose.
+
+**Switching midway:** if they're in Path A and say something like "just use my pre-work," switch to Path B right away. Keep everything they've already answered (their newest answers win over the pre-work), save the pre-work to `about-me/prework/` if it isn't there yet (ask them to upload it), fill in the rest from it, tell them what's left ("Between what you've answered here and your pre-work, [x] of [total] are done. I just need you on: [short list]."), and ask only the gap questions. It works the other way too: if they're in Path B and would rather answer the rest fresh, switch to Path A for whatever's left. While they're answering fresh, don't pull answers from the pre-work.
 
 ### Voice memo option
 
