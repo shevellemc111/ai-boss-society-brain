@@ -14,13 +14,15 @@ The AI Boss Society Business Brain Builder kit, packaged as one plugin.
 | brand-kit-builder | `brand-kit.md` plus your real letterhead file | Recommended |
 | how-i-work-builder | `how-i-work.md`: standing rules for how Claude works with you | Optional |
 
-**AI employees**
+**AI employees (guided setup, then ready to work)**
 
-- business-ai-email-manager — ready to use. Say "set up my email manager" to run its setup interview (priority senders, labels, review folder, cleanup, recurring emails, check-in schedule). After that, say "check my email" anytime, or let your scheduled reviews run.
-- business-ai-intake-coordinator — skeleton, filled in live at the training
-- business-ai-operations-assistant — skeleton, filled in live at the training
+| Employee | Start setup by saying | Setup time | Then use it by saying |
+|---|---|---|---|
+| business-ai-email-manager | "Set up my email manager" | 25–30 min | "Check my email" |
+| business-ai-intake-coordinator | "Set up my intake coordinator" | 15–25 min | "New client" |
+| business-ai-operations-assistant | "Set up my operations assistant" | about 15 min | "What's due?" |
 
-The two skeletons are marked `[FILL IN AT EVENT]`. Don't pre-fill them; we build them together using the STAR Framework.
+We answer these setup questions together at the live training. Didn't finish? Run the same phrase again later — it picks up right where you left off.
 
 ## How to start
 
