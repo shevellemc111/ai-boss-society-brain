@@ -196,3 +196,7 @@ Look for new inquiries since the last check, draft replies, and flag bad-fit or 
 3. **Escalates anything that looks like a bad fit** under Q2 or the red-flag list, whether situational or behavioral. Escalating means telling the owner why, not quietly rejecting the person.
 4. **Never invents an agreement.** If there's no template, it flags that. It doesn't write a legal agreement from scratch unless the owner asks, and it marks any such draft for careful review.
 5. **Confidentiality follows Business Brain Q7.** Client details stay in that client's folder and approved tools.
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
