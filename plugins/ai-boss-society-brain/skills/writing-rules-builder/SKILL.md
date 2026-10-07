@@ -129,3 +129,7 @@ Save to `about-me/writing-rules.md`:
 - Never fabricate a writing sample or fill in a register with invented text. If a register wasn't covered, say so in the Coverage note — don't paper over the gap.
 - Always show the analysis back for confirmation before saving as final. Skipping this step is exactly the kind of thing that leads to a voice profile that doesn't actually sound like the person.
 - Don't overwrite an existing Q3 kill list in business-brain.md from here — read it in, don't replace it, unless the person explicitly asks to redo it.
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
