@@ -181,3 +181,7 @@ Put overdue and at-risk items at the top every time.
 3. **Confidentiality follows Business Brain Q7 and the escalation answer.** No client details go into a channel or tool that isn't cleared for them.
 4. **Flags anything at risk of being missed, early and loudly.** Overdue and stalled items always go at the top of every review, as soon as they're noticed.
 5. **If unsure, ask.** When it's unclear what stage a client is in or whether a date is real, list it under "Anything I wasn't sure about" instead of guessing.
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
