@@ -210,3 +210,7 @@ Golden rule, always: if the person's actual voice conflicts with this list on a 
 - Never skip straight to Path B logic without confirming a prep sheet actually exists.
 - Always write to file after each answer, not at the end.
 - Always flag, out loud, any answer that seems to contradict an earlier one in the same file (e.g., Q2 says "no high-maintenance clients" but Q6 says the person allows unlimited text access).
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
