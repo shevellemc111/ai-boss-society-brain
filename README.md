@@ -15,3 +15,7 @@ When new skills are added, open the marketplace and click **Update**.
 > Plugins work in Cowork and Claude Code, not regular Chat.
 
 See [the plugin README](plugins/ai-boss-society-brain/README.md) for what's included.
+
+## License
+
+© 2026 Shevelle McPherson, Esq. All rights reserved. These skills are licensed only to active AI Boss Society members and registered event attendees, for use in their own business. Please don't share, forward, copy, or resell the plugin, its files, or this marketplace address. Everything you create with it belongs to you. See [LICENSE](LICENSE) for the full terms.
