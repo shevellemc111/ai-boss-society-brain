@@ -27,3 +27,7 @@ Filled out the Pre-Work Packet or recorded a voice memo? Upload it once when you
 ## How to start
 
 After installing, start a Cowork task, attach the folder you want your Business Brain files saved in, and say: **"Let's do my business brain."** Your files are saved in `about-me/` inside that folder, and anything your AI employees draft goes in `outputs/`, in a subfolder for each client or project.
+
+## License
+
+© 2026 Shevelle McPherson, Esq. All rights reserved. These skills are licensed only to active AI Boss Society members and registered event attendees, for use in their own business. Please don't share, forward, copy, or resell the plugin, its files, or this marketplace address. Everything you create with it belongs to you. See [LICENSE](LICENSE) for the full terms.
