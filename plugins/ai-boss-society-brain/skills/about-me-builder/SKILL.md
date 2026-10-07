@@ -123,3 +123,7 @@ Save to `about-me/about-me.md`:
 - Never make personal context mandatory. If skipped, write "Not shared — that's fine." and move on — don't leave a placeholder that reads like an unfinished task.
 - Keep this file about the person, not the business mechanics — if an answer drifts into pricing, services, or client process, that belongs in `business-brain.md`; note it there instead and keep this file lean.
 - Don't guess at tone or add color commentary — this file is a factual reference, not a writing sample (that's what writing-rules.md is for).
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
