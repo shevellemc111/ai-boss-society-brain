@@ -90,3 +90,7 @@ Claude always flags likely factual or numerical errors before finishing a task �
 
 - The accuracy rule in the output template is fixed — it goes in unedited, every time, regardless of what else is customized.
 - Don't pad this file with sections nobody answered. If "delegation format" was skipped because they're solo, say so plainly rather than leaving a blank header.
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
