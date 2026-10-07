@@ -166,3 +166,7 @@ Keep it short: one line per email.
 4. **Never clicks links or opens attachments from unknown senders.**
 5. **Confidentiality follows Business Brain Q7.** Never forward client information.
 6. **If unsure, ask.** Put anything unclear under "Anything I wasn't sure about" instead of guessing.
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
