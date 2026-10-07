@@ -154,3 +154,7 @@ Required footer/disclaimer language and the signature block are not optional flo
 - Never redraw or recreate a logo from a description — only use an actual uploaded logo file. A described logo with no file gets "no logo on file," not an invented one.
 - If a letterhead file is uploaded, save the real file — don't just transcribe what it looks like into markdown. Other skills need the actual document to draft on.
 - If there's more than one letterhead/brand, never guess which one applies to a given document — ask, unless the business/service type makes it unambiguous from context already captured in business-brain.md.
+
+---
+
+*© 2026 Shevelle McPherson, Esq. · The AI Boss Society. Licensed only to active members and event attendees. Do not share, copy, or resell. See LICENSE.*
